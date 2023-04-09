@@ -4,18 +4,18 @@
 	"icon": "minecraft:iron_sword",
 	"start": {
 		"title": {
-			"text": "So?"
+			"text": "Então?"
 		},
 		"description": {
-			"text": "I can teach you the skill - Active Guard. Just pay me 15 emeralds."
+			"text": "Posso lhe ensinar a habilidade - Guarda Ativa. Apenas me pague 15 esmeraldas."
 		}
 	},
 	"complete": {
 		"title": {
-			"text": "Thanks!"
+			"text": "Obrigado!"
 		},
 		"description": {
-			"text": "Here you go."
+			"text": "Aqui vai."
 		}
 	},
 	"tasks": [{
