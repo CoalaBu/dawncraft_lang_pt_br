@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_pickaxe",
   "start": {
     "title": {
-      "text": "Dragon Heart"
+      "text": "Coração de dragão"
     },
     "description": {
-      "text": "I've seen these ice dragons once. Terrifying beings... Yet their essences are so majestically alluring. I must investigate the elements within it."
+      "text": "Já vi esses dragões de gelo uma vez. São seres aterrorizantes... No entanto, suas essências são de brilhar os olhos. Preciso investigar os elementos que tem dentro dele."
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Obrigado!"
     },
     "description": {
-      "text": "Splendid! Here are your rewards. I must now begin my research."
+      "text": "Que beleza! Aqui sua recompensa. Agora vou começar minha pesquisa."
     }
   },
   "tasks": [
